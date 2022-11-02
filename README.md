@@ -1,5 +1,9 @@
 # Token-Code-BEP20
 
+```solidity
+pragma solidity ^0.8.2;
+```
+
 #### BlueArt Token;
 It operates as a BEP20 token on Binance Smart Chain and has a maximum supply of 88 million units. 
 It is technically impossible to increase the supply of BlueArt Token as this feature has been canceled in the smart contract. 
